@@ -1,0 +1,24 @@
+{
+  "name": "@sikessem/static",
+  "version": "0.0.0",
+  "description": "🌐 SIKessEm Public Static Content",
+  "homepage": "https://static.sikessem.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sikessem/static.git"
+  },
+  "keywords": [
+    "static-files",
+    "website"
+  ],
+  "author": "SIGUI Kessé Emmanuel <ske@sikessem.com>",
+  "bugs": {
+    "url": "https://github.com/sikessem/static/issues"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "GPL-3.0"
+}
